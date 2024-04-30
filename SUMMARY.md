@@ -4,7 +4,7 @@
 
 ## 📖 Book
 
-* [IT](book/it/README.md)
+* [🧑‍💻 IT](book/it/README.md)
   * [✔️ Specification by Example](book/it/specification-by-example.md)
   * [✖️ 이공계 Technical Writing 가이드](book/it/technical-writing.md)
   * [✖️ 소프트웨어 스팩의 모든 것](book/it/undefined.md)
