@@ -42,3 +42,8 @@
 * [Oracle Product](product/oracle-product/README.md)
   * [Oracle DB](product/oracle-product/oracle-db.md)
   * [OGG](product/oracle-product/ogg.md)
+
+## 🎙️ LECTURE
+
+* [LCampus](lecture/lcampus/README.md)
+  * [\[인문소양\] 콕 집어 알려주는 달인의 글쓰기](lecture/lcampus/undefined.md)
