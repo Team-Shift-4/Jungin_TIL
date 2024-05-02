@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TIL](README.md)
+* [📘 TIL](README.md)
 
 ## 📖 Book
 
@@ -47,3 +47,7 @@
 
 * [LCampus](lecture/lcampus/README.md)
   * [\[인문소양\] 콕 집어 알려주는 달인의 글쓰기](lecture/lcampus/undefined.md)
+
+## ❓ UNDEFINED
+
+* [History of Data Technology](undefined/history-of-data-technology.md)

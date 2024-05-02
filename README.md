@@ -2,7 +2,7 @@
 description: Today I Learned, 앞으로 익혀가는 것들을 남기고 공유하며, 쉽게 관리하기 위한 문서이다.
 ---
 
-# TIL
+# 📘 TIL
 
 ## :pencil: To-do
 
@@ -50,3 +50,9 @@ Database에 관한 문서이다.
 ## PRODUCT
 
 특정 회사의 제품에 관한 문서이다.
+
+## UNDEFIEND
+
+아직 분류되지 않은 문서이다.
+
+체계적인 정리를 위해 임시 공간으로 활용할 예정이다.
