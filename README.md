@@ -4,15 +4,20 @@ description: Today I Learned, 앞으로 익혀가는 것들을 남기고 공유�
 
 # TIL
 
-## :pencil: Notepad
+## :pencil: To-do
 
-* [ ] Airbyte 학습
-* [ ] ETL Tool 알아보기
-* [ ] 데이터 기술 변천사
+{% tabs %}
+{% tab title="In-Progress" %}
+* Airbyte 학습
+* ETL Tool 알아보기
+* 데이터 기술 변천사 정리
+* Debezium을 활용하여 AFC, AFO 문제 파악하고 대안점 정리('24.05.03\~'24.05.08)&#x20;
+{% endtab %}
 
-### :
+{% tab title="Done" %}
 
-* [ ] Debezium 분석 후 사용
+{% endtab %}
+{% endtabs %}
 
 ## 습관 들이기
 
