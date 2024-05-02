@@ -1,10 +1,18 @@
 ---
-description: Today I Learned
+description: Today I Learned, 앞으로 익혀가는 것들을 남기고 공유하며, 쉽게 관리하기 위한 문서이다.
 ---
 
 # TIL
 
-앞으로 익혀가는 것들을 남기고 공유하며, 쉽게 관리하기 위한 페이지이다.
+## :pencil: Notepad
+
+* [ ] Airbyte 학습
+* [ ] ETL Tool 알아보기
+* [ ] 데이터 기술 변천사
+
+### :
+
+* [ ] Debezium 분석 후 사용
 
 ## 습관 들이기
 
