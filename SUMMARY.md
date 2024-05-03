@@ -33,6 +33,11 @@
 
 ## 📽️ Product
 
+* [Qlik Product](product/qlik-product/README.md)
+  * [QlikView](product/qlik-product/qlikview.md)
+  * [Qlik Replicate](product/qlik-product/qlik-replicate.md)
+  * [Qlik Compose for Data Lakes / Data Warehouse](product/qlik-product/qlik-compose-for-data-lakes-data-warehouse.md)
+  * [Qlik Gold Client](product/qlik-product/qlik-gold-client.md)
 * [ArkData Product](product/arkdata-product/README.md)
   * [AFC](product/arkdata-product/afc/README.md)
     * [ACO](product/arkdata-product/afc/aco/README.md)
