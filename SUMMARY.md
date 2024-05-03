@@ -34,7 +34,8 @@
 ## 📽️ Product
 
 * [Red Hat Project](product/red-hat-project/README.md)
-  * [Debezium](product/red-hat-project/debezium.md)
+  * [Debezium](product/red-hat-project/debezium/README.md)
+    * [Debezium을 활용한 CDC 가능성](product/red-hat-project/debezium/debezium-cdc.md)
 * [Qlik Product](product/qlik-product/README.md)
   * [QlikView](product/qlik-product/qlikview.md)
   * [Qlik Replicate](product/qlik-product/qlik-replicate.md)
