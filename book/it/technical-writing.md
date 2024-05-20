@@ -2,7 +2,7 @@
 description: 책 [이공계 Technical Writing 가이드]를 읽고 정리한 문서이다.
 ---
 
-# ✖️ 이공계 Technical Writing 가이드
+# ✔️ 이공계 Technical Writing 가이드
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="132"><figcaption><p>이공계 Tecnical Writing 가이드</p></figcaption></figure>
 

@@ -5,19 +5,13 @@
 ## 📖 Book
 
 * [🧑‍💻 IT](book/it/README.md)
-  * [✔️ Specification by Example](book/it/specification-by-example.md)
-  * [✖️ 이공계 Technical Writing 가이드](book/it/technical-writing.md)
+  * [✖️ Specification by Example](book/it/specification-by-example.md)
+  * [✔️ 이공계 Technical Writing 가이드](book/it/technical-writing.md)
   * [✖️ 소프트웨어 스펙의 모든 것](book/it/undefined.md)
 
 ## 💁 Tip
 
-* [Oracle](tip/oracle/README.md)
-  * [Character Set 확인](tip/oracle/character-set.md)
-  * [Tablespace 용량 확인](tip/oracle/tablespace.md)
-  * [Log의 시작 SCN 확인](tip/oracle/log-scn.md)
-  * [Create Range Partition](tip/oracle/create-range-partition.md)
-  * [실행 중인 Query 조회](tip/oracle/query.md)
-  * [METADATA GET DDL](tip/oracle/metadata-get-ddl.md)
+* [Oracle](tip/oracle.md)
 
 ## 📍 Error Resolution
 
@@ -40,7 +34,15 @@
   * [Qlik Compose for Data Lakes / Data Warehouse](product/qlik-product/qlik-compose-for-data-lakes-data-warehouse.md)
   * [Qlik Gold Client](product/qlik-product/qlik-gold-client.md)
 * [Oracle Product](product/oracle-product/README.md)
-  * [Oracle DB](product/oracle-product/oracle-db.md)
+  * [Oracle Database](product/oracle-product/oracle-database/README.md)
+    * [Tip](product/oracle-product/oracle-database/tip/README.md)
+      * [Check Character Set](product/oracle-product/oracle-database/tip/check-character-set.md)
+      * [Check Tablespace](product/oracle-product/oracle-database/tip/check-tablespace.md)
+      * [Check Log's Start SCN](product/oracle-product/oracle-database/tip/check-logs-start-scn.md)
+      * [Create Range Partition](product/oracle-product/oracle-database/tip/create-range-partition.md)
+      * [METADATA GET DDL](product/oracle-product/oracle-database/tip/metadata-get-ddl.md)
+      * [Check Running Query](product/oracle-product/oracle-database/tip/check-running-query.md)
+    * [Error Resolution](product/oracle-product/oracle-database/error-resolution.md)
   * [OGG](product/oracle-product/ogg.md)
 
 ## 🎙️ LECTURE
