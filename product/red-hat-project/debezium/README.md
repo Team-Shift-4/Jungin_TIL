@@ -12,7 +12,7 @@ Debezium은 변경 이벤트 스트림의 각 데이터베이스 테이블 내�
 
 ## Debezium Architecture&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Debezium Architecture</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Debezium Architecture</p></figcaption></figure>
 
 ### Debezium Server
 
@@ -20,7 +20,7 @@ Debezium Server는 Source Database에서 다양한 Messaging Infrastructure로 C
 
 아래는 Debezium Server를 사용하는 CDC Pipeline의 Architecture이다.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Debezium Server</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Debezium Server</p></figcaption></figure>
 
 Debezium Server는 Debezium Source Connector 중 하나를 사용해 Source DB의 Change Event를 Capture하도록 구성된다.
 
