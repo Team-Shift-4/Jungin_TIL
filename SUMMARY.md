@@ -11,6 +11,8 @@
 
 ## 📽️ PROJECT
 
+* [InfluxData Project](project/influxdata-project/README.md)
+  * [InfluxDB](project/influxdata-project/influxdb.md)
 * [Grafana Labs Product](project/grafana-labs-product/README.md)
   * [Grafana](project/grafana-labs-product/grafana.md)
 * [Apache Project](product/apache-project/README.md)
