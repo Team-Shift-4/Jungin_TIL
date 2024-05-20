@@ -26,6 +26,7 @@
 ## 🎛️ Kafka
 
 * [Kafka란](kafka/kafka.md)
+* [Kafka Quick Start](kafka/kafka-quick-start.md)
 
 ## 📦 Database
 
@@ -41,12 +42,6 @@
   * [Qlik Replicate](product/qlik-product/qlik-replicate.md)
   * [Qlik Compose for Data Lakes / Data Warehouse](product/qlik-product/qlik-compose-for-data-lakes-data-warehouse.md)
   * [Qlik Gold Client](product/qlik-product/qlik-gold-client.md)
-* [ArkData Product](product/arkdata-product/README.md)
-  * [AFC](product/arkdata-product/afc/README.md)
-    * [ACO](product/arkdata-product/afc/aco/README.md)
-      * [ACO CheckList](product/arkdata-product/afc/aco/aco-checklist.md)
-  * [AFO](product/arkdata-product/afo.md)
-  * [AFF](product/arkdata-product/aff.md)
 * [Oracle Product](product/oracle-product/README.md)
   * [Oracle DB](product/oracle-product/oracle-db.md)
   * [OGG](product/oracle-product/ogg.md)
