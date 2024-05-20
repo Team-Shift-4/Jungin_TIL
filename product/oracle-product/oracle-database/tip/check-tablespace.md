@@ -2,7 +2,7 @@
 description: Tablespace의 용량을 확인할 때 사용한다.
 ---
 
-# Tablespace 용량 확인
+# Check Tablespace
 
 {% code fullWidth="false" %}
 ```sql

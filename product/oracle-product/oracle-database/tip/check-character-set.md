@@ -2,7 +2,7 @@
 description: Oracle에서 Character Set을 확인할 때 사용한다.
 ---
 
-# Character Set 확인
+# Check Character Set
 
 {% code fullWidth="false" %}
 ```sql

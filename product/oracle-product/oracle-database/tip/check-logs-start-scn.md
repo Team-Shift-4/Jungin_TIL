@@ -2,7 +2,7 @@
 description: Log의 시작 SCN을 확인할 때 사용한다.
 ---
 
-# Log의 시작 SCN 확인
+# Check Log's Start SCN
 
 {% code fullWidth="false" %}
 ```sql

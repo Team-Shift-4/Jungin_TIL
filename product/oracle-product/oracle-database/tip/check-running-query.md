@@ -2,7 +2,7 @@
 description: 실행 중인 Query를 조회할 때 사용한다.
 ---
 
-# 실행 중인 Query 조회
+# Check Running Query
 
 ```sql
 SELECT A.STATUS,         -- 상태
