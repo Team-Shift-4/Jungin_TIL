@@ -24,6 +24,8 @@
   * [Qlik Gold Client](product/qlik-product/qlik-gold-client.md)
 * [Oracle Product](product/oracle-product/README.md)
   * [Oracle Database](product/oracle-product/oracle-database/README.md)
+    * [Installation Guide](project/oracle-product/oracle-database/installation-guide/README.md)
+      * [11gR2 in CentOS 7](project/oracle-product/oracle-database/installation-guide/11gr2-in-centos-7.md)
     * [Tip](product/oracle-product/oracle-database/tip/README.md)
       * [Check Character Set](product/oracle-product/oracle-database/tip/check-character-set.md)
       * [Check Tablespace](product/oracle-product/oracle-database/tip/check-tablespace.md)
