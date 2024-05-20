@@ -1,12 +1,12 @@
 ---
-description: Kafka의 기본 개념에 대해 정리된 문서이다.
+description: Kafka에 관한 문서이다.
 ---
 
-# Kafka란
+# Kafka
 
 ## Kafka Architecture
 
-<figure><img src="../.gitbook/assets/Kafka Architecture.png" alt=""><figcaption><p>카프카 구성도</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Kafka Architecture.png" alt=""><figcaption><p>카프카 구성도</p></figcaption></figure>
 
 ## Glossary of Terms <a href="#id-1.kafka-glossaryofterms" id="id-1.kafka-glossaryofterms"></a>
 
@@ -50,7 +50,7 @@ description: Kafka의 기본 개념에 대해 정리된 문서이다.
     * Replication Factor 설정 시 Leader와 Follower로 나뉘며 Leader를 가지고 있는 Server가 죽을 경우 Follower가 Reader가 된다.
       * 이후 ISR에서 추가 기술
 
-<figure><img src="../.gitbook/assets/간략.png" alt=""><figcaption><p>간략한 카프카 구성도</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/간략.png" alt=""><figcaption><p>간략한 카프카 구성도</p></figcaption></figure>
 
 ### Topic 생성 및 정보 확인 <a href="#id-1.kafka-topic" id="id-1.kafka-topic"></a>
 
@@ -82,13 +82,13 @@ description: Kafka의 기본 개념에 대해 정리된 문서이다.
 * Event는 Producer를 통해 전송 시 Partitioner를 통해 Topic의 어떤 Partition으로 전송되어야 할 지 미리 결정된다.
 * Key 값을 가지지 않는 경우 Round Robin, Sticky Partition 등의 Partition 전략 등이 선택되어 Partition 별로 Message가 전송될 수 있다.
 
-<figure><img src="../.gitbook/assets/Nonkey.png" alt=""><figcaption><p>Key가 없는 Event 예시</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Nonkey.png" alt=""><figcaption><p>Key가 없는 Event 예시</p></figcaption></figure>
 
 ### Key 값을 가지는 Event 전송 <a href="#id-1.kafka-key-event" id="id-1.kafka-key-event"></a>
 
 * Event Key 값은 Event Produce / Consume 시 분산 성능 영향을 고려하여 생성한다.
 
-<figure><img src="../.gitbook/assets/Key.png" alt=""><figcaption><p>Key가 있는 Event 예시</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Key.png" alt=""><figcaption><p>Key가 있는 Event 예시</p></figcaption></figure>
 
 ## Kafka Config <a href="#id-1.kafka-kafkaconfig" id="id-1.kafka-kafkaconfig"></a>
 
@@ -106,3 +106,52 @@ description: Kafka의 기본 개념에 대해 정리된 문서이다.
 | Config 값 확인    | <table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td><code>kafka-configs --bootstrap-server &#x3C;host>:&#x3C;port> --entity-type</code> <code>[brokers | topics] --entity-name [&#x3C;broker_id> | &#x3C;topic>] --all --describe</code></td></tr></tbody></table>                                  |
 | Config 값 설정    | <table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td><code>kafka-configs --bootstrap-server &#x3C;host>:&#x3C;port> --entity-type</code> <code>[brokers | topics] --entity-name [&#x3C;broker_id> | &#x3C;topic>] --alter --add-config &#x3C;property>=&#x3C;value></code></td></tr></tbody></table> |
 | Config 값 설정 해제 | <table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td><code>kafka-configs --bootstrap-server &#x3C;host>:&#x3C;port> --entity-type</code> <code>[brokers | topics] --entity-name [&#x3C;broker_id> | &#x3C;topic>] --alter --delete-config &#x3C;property></code></td></tr></tbody></table>           |
+
+## Quick Start
+
+### Kafka 다운로드 <a href="#kafkaquickstart-kafka" id="kafkaquickstart-kafka"></a>
+
+[Download](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.4.0/kafka\_2.13-3.4.0.tgz) 링크를 눌러 파일을 다운한다.
+
+```bash
+tar -xzf kafka_2.13-3.4.0.tgzcd kafka_2.13-3.4.0
+cd kafka_2.13-3.4.0
+```
+
+### Kafka Environment 시작
+
+Apache Kafka는 ZooKeeper나 KRaft를 사용해 시작할 수 있다.
+
+#### ZooKeeper 사용
+
+```bash
+bin/zookeeper-server-start.sh config/zookeeper.properties
+bin/kafka-server-start.sh config/server.properties
+```
+
+#### KRaft 사용
+
+```bash
+KAFKA_CLUSTER_ID="$(bin/kafka-storage.sh random-uuid)"
+bin/kafka-storage/sh format -t $KAFKA_CLUSTER_ID -c config/kraft/server.properties
+bin/kafka-server-start.sh config/kraft/server.properties
+```
+
+### Topic 생성
+
+```bash
+bin/kafka-topics.sh --create --topic testing --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic testing --bootstrap-server localhost:9092
+```
+
+### Topic에 Event 생성
+
+```bash
+bin/kafka-console-producer.sh --topic testing --bootstrap-server localhost:9092
+```
+
+### Event 읽기
+
+```bash
+bin/kafka-console-consumer.sh --topic testing --from-beginning --bootstrap-server localhost:9092
+```

@@ -23,17 +23,14 @@
 
 * [Oracle](error-resolution/oracle.md)
 
-## 🎛️ Kafka
-
-* [Kafka란](kafka/kafka.md)
-* [Kafka Quick Start](kafka/kafka-quick-start.md)
-
 ## 📦 Database
 
 * [Database란](database/database.md)
 
 ## 📽️ Product
 
+* [Apache Project](product/apache-project/README.md)
+  * [Kafka](product/apache-project/kafka.md)
 * [Red Hat Project](product/red-hat-project/README.md)
   * [Debezium](product/red-hat-project/debezium/README.md)
     * [Debezium을 활용한 CDC 가능성](product/red-hat-project/debezium/debezium-cdc.md)
