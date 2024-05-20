@@ -121,7 +121,9 @@ autogen 0s       168h0m0s           1        true
 INSERT <measurement_name>,<tag_name>=<tag_value>,...<tag_name>=<tag_value> <field_name>=<field_value>,...<field_name>=<field_value> <time_key(Optional)>
 ```
 
-Tag Key, Field Key, Time Key 사이에 `,` 없이 사용 `,` 뒤 공백 불가
+Tag Key, Field Key, Time Key 사이에 `,` 없이 사용한다.
+
+`,` 뒤 공백을 붙일 수 없다.
 
 #### Select Data
 
