@@ -11,6 +11,7 @@
 
 ## 📽️ PROJECT
 
+* [My Project](project/my-project.md)
 * [InfluxData Project](project/influxdata-project/README.md)
   * [InfluxDB](project/influxdata-project/influxdb.md)
 * [Grafana Labs Product](project/grafana-labs-product/README.md)
@@ -29,6 +30,7 @@
     * [Installation Guide](project/oracle-product/oracle-database/installation-guide/README.md)
       * [FS Single-Tenancy 11gR2 in CentOS 7](project/oracle-product/oracle-database/installation-guide/fs-single-tenancy-11gr2-in-centos-7.md)
       * [FS Single-Tenancy 19c in CentOS 7](project/oracle-product/oracle-database/installation-guide/fs-single-tenancy-19c-in-centos-7.md)
+    * [Oracle Logdump](project/oracle-product/oracle-database/oracle-logdump.md)
     * [Tip](product/oracle-product/oracle-database/tip/README.md)
       * [Check Character Set](product/oracle-product/oracle-database/tip/check-character-set.md)
       * [Check Tablespace](product/oracle-product/oracle-database/tip/check-tablespace.md)
