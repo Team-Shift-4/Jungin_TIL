@@ -11,7 +11,9 @@
 
 ## 📽️ PROJECT
 
-* [My Project](project/my-project.md)
+* [My Project](project/my-project/README.md)
+  * [Group Project](project/my-project/group-project.md)
+  * [Personal Project](project/my-project/personal-project.md)
 * [InfluxData Project](project/influxdata-project/README.md)
   * [InfluxDB](project/influxdata-project/influxdb.md)
 * [Grafana Labs Product](project/grafana-labs-product/README.md)
