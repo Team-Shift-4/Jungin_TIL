@@ -47,6 +47,9 @@
 
 * [LCampus](lecture/lcampus/README.md)
   * [\[인문소양\] 콕 집어 알려주는 달인의 글쓰기](lecture/lcampus/undefined.md)
+* [Class 101](lecture/class-101/README.md)
+  * [Flutter](lecture/class-101/flutter/README.md)
+    * [용돈 벌어주는 나만의 앱 직접 만들어보기](lecture/class-101/flutter/undefined.md)
 
 ## ❓ UNDEFINED
 
