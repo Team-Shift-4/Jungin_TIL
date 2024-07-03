@@ -49,7 +49,9 @@
   * [\[인문소양\] 콕 집어 알려주는 달인의 글쓰기](lecture/lcampus/undefined.md)
 * [Class 101](lecture/class-101/README.md)
   * [Flutter](lecture/class-101/flutter/README.md)
-    * [용돈 벌어주는 나만의 앱 직접 만들어보기](lecture/class-101/flutter/undefined.md)
+    * [용돈 벌어주는 나만의 앱 직접 만들어보기](lecture/class-101/flutter/undefined/README.md)
+      * [1. Setting](lecture/class-101/flutter/undefined/1.-setting.md)
+      * [2. Develop](lecture/class-101/flutter/undefined/2.-develop.md)
 
 ## ❓ UNDEFINED
 

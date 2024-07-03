@@ -4,7 +4,7 @@ description: 책 [Specification by Example(성공적인 프로젝트를 관통�
 
 # ✖️ Specification by Example
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="229"><figcaption><p>Specification by Example(성공적인 프로젝트를 관통하는 핵심 실천법)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="229"><figcaption><p>Specification by Example(성공적인 프로젝트를 관통하는 핵심 실천법)</p></figcaption></figure>
 
 ## 핵심 이점
 
