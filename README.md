@@ -6,15 +6,13 @@ description: Today I Learned, 앞으로 익혀가는 것들을 남기고 공유�
 
 ## :pencil: To-do
 
-* [ ] 운동 계획 짜기
-
-## 습관 들이기
-
-1. 힘들게 찾은 것을 따로 기록한다.
-2. 일의 순서를 정하고 우선순위에 맞게 행동한다.
-3. 문서를 적을 때 Technical Writing에 맞게 작성한다.
-4. 분기 당 한 권 이상의 책을 읽고 작성한다.
-5. 건강 관리를 꾸준히 한다.
+* [ ] 연구 분야 선택
+* [ ] 해당 분야 교수님들 파악
+  * [ ] 관심 교수님의 논문 읽기
+    * [ ] [https://www.riss.kr/index.do](https://www.riss.kr/index.do)
+    * [ ] [https://scholar.google.com/](https://scholar.google.com/)
+* [ ] 대학별 전형 및 지원요건 파악
+* [ ] 자기소개서 및 학업계획서 작
 
 ## 운동 계획
 
