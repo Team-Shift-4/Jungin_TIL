@@ -1,8 +1,9 @@
 ---
 description: 책 [이공계 Technical Writing 가이드]를 읽고 정리한 문서이다.
+icon: check
 ---
 
-# ✔️ 이공계 Technical Writing 가이드
+# 이공계 Technical Writing 가이드
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="132"><figcaption><p>이공계 Tecnical Writing 가이드</p></figcaption></figure>
 
@@ -257,7 +258,7 @@ Technical Writing에서 말하는 완전한 문장이란, 맥락을 짚어가야
 
 > 이 명령어는 특정 cell의 Downlink Common Channel의 출력을 _**풀어버린다**_.\
 > 하나의 라우터가 하나 이상의 IP Routing Protocol을 _**돌리는**_ 경우가 있다.\
-> Processor가 _**살았는지**_를 확인한다.\
+> Processor가 _**살았는지**_&#xB97C; 확인한다.\
 > 보드에 _**올라가는**_ S/W Application들을 구동한다.\
 > 입력된 신호에서 ATM Cell 경계를 _**잊어버린**_ 경우에 발생한다.
 
@@ -350,9 +351,9 @@ Technical Writing을 할 때 구체적이고 명확한 의미의 용어를 사�
   * ACR이 수집한 과금 정보는 Diameter 프로토콜을 _**사용하여**_ AAA 서버에 전달된다.(O)
 * 깨어나다 -> 다시 사용하다
   * 이 모드에서 시스템이 꺼져 있는 것과 유사한 전력을 소비합니다.\
-    _**깨어나려면**_ 전원 버튼을 누릅니다.(X)
+    &#xNAN;_**깨어나려면**_ 전원 버튼을 누릅니다.(X)
   * 이 모드에서 시스템이 꺼져 있는 것과 유사한 전력을 소비합니다.\
-    _**다시 사용하려면**_ 전원 버튼을 누릅니다.(O)
+    &#xNAN;_**다시 사용하려면**_ 전원 버튼을 누릅니다.(O)
 
 ### 약어를 제대로 사용하라
 
