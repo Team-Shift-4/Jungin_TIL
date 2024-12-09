@@ -1,6 +1,7 @@
 ---
 icon: graduation-cap
-description: Today I Learned, 앞으로 익혀가는 것들을 남기고 공유하며, 쉽게 관리하기 위한 문서이다.
+description: Today I Learned.
+hidden: true
 ---
 
 # TIL
