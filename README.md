@@ -1,5 +1,5 @@
 ---
-icon: graduation-cap
+icon: school
 description: Today I Learned.
 hidden: true
 ---

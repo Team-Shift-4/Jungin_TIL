@@ -2,6 +2,12 @@
 
 * [TIL](README.md)
 
+## Seminar
+
+* [KNU](seminar/knu/README.md)
+  * [Discrete Mathematics and Its Applications Sixth Edition](seminar/knu/discrete-mathematics-and-its-applications-sixth-edition/README.md)
+    * [1. The Foundations: Logic and Proofs](seminar/knu/discrete-mathematics-and-its-applications-sixth-edition/1.-the-foundations-logic-and-proofs.md)
+
 ## Book
 
 * [IT](book/it/README.md)
