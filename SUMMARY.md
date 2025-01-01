@@ -2,6 +2,12 @@
 
 * [TIL](README.md)
 
+## LOG
+
+* [2025](log/2025/README.md)
+  * [1st week](log/2025/1st-week.md)
+  * [2nd week](log/2025/2nd-week.md)
+
 ## Seminar
 
 * [KNU](seminar/knu/README.md)
@@ -54,6 +60,8 @@
 
 ## LECTURE
 
+* [TOEIC](lecture/toeic/README.md)
+  * [Day 1](lecture/toeic/day-1.md)
 * [LCampus](lecture/lcampus/README.md)
   * [\[인문소양\] 콕 집어 알려주는 달인의 글쓰기](lecture/lcampus/undefined.md)
 * [Class 101](lecture/class-101/README.md)
