@@ -66,3 +66,10 @@ on+날짜는 날짜에
 always는 S와 V사이
 
 company = firm = corporation
+
+be+in+장소 = 장소 에 있다
+
+cousin = relative = 사촌/친척
+
+be+형용사 = 형용사하다
+

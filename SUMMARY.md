@@ -2,7 +2,7 @@
 
 * [TIL](README.md)
 
-## LOG
+## Log
 
 * [2025](log/2025/README.md)
   * [1st week](log/2025/1st-week.md)
@@ -14,15 +14,15 @@
   * [Discrete Mathematics and Its Applications Sixth Edition](seminar/knu/discrete-mathematics-and-its-applications-sixth-edition/README.md)
     * [1. The Foundations: Logic and Proofs](seminar/knu/discrete-mathematics-and-its-applications-sixth-edition/1.-the-foundations-logic-and-proofs.md)
 
-## Book
+## Bookcase
 
-* [IT](book/it/README.md)
-  * [Specification by Example](book/it/specification-by-example.md)
-  * [이공계 Technical Writing 가이드](book/it/technical-writing.md)
-  * [소프트웨어 스펙의 모든 것](book/it/undefined.md)
-  * [Discrete Mathematics and ITs Applications](book/it/discrete-mathematics-and-its-applications/README.md)
-    * [The Foundations: Logic and Proofs](book/it/discrete-mathematics-and-its-applications/the-foundations-logic-and-proofs/README.md)
-      * [Propositional Logic](book/it/discrete-mathematics-and-its-applications/the-foundations-logic-and-proofs/propositional-logic.md)
+* [IT](bookcase/it/README.md)
+  * [Specification by Example](bookcase/it/specification-by-example.md)
+  * [이공계 Technical Writing 가이드](bookcase/it/technical-writing.md)
+  * [소프트웨어 스펙의 모든 것](bookcase/it/undefined.md)
+  * [Discrete Mathematics and ITs Applications](bookcase/it/discrete-mathematics-and-its-applications/README.md)
+    * [The Foundations: Logic and Proofs](bookcase/it/discrete-mathematics-and-its-applications/the-foundations-logic-and-proofs/README.md)
+      * [Propositional Logic](bookcase/it/discrete-mathematics-and-its-applications/the-foundations-logic-and-proofs/propositional-logic.md)
 
 ## PROJECT
 
