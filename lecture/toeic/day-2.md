@@ -24,7 +24,7 @@ We reached Seoul&#x20;
 
 보어는 명사나 형용사로 구성
 
-보어를 사용하는 동사
+보어(주격 보어)를 사용하는 동사
 
 | 구문       | 뜻          |
 | -------- | ---------- |
@@ -35,7 +35,7 @@ We reached Seoul&#x20;
 | seem+c   | \~처럼 보이다   |
 | appear+c | \~처럼 보이다   |
 
-보어를 사용하는 목적어(목적 보어)
+보어를 사용하는 목적어(목적격 보어)
 
 | 구문             | 뜻                  |
 | -------------- | ------------------ |
@@ -46,7 +46,7 @@ We reached Seoul&#x20;
 | keep+o+o.c     | o를 o.c한 상태로 유지하다   |
 | find+o+o.c     | o를 o.c하다고 발견(생각)하다 |
 
-고부만남유발발
+고부만남유발
 
 be+보어, v+o+o.c
 
@@ -61,3 +61,85 @@ be+보어, v+o+o.c
 3.  부사절 접속사+문장(when은 접속사)
 
     The seminar will begin **when** he arrives
+
+## 왕기초 RC 독해 2강 - 목적어 / 보어 / 수식어
+
+자동사 + 목적어 x
+
+타동사 + 목적어 o
+
+need to v = v할 필요가 있다
+
+복합명사 production chedule
+
+on 요일s = 요일마다
+
+3형식 동사: s+v+o
+
+4형식 동사: s+v+o1+o2
+
+보어의 경우 주격 보어와 목적격 보어가 존재한다.
+
+주격 보어 s+v+c / 목적격 보어 s+v+o+o.c
+
+be+보어
+
+A and B 복수로 취급
+
+A of B B의 A
+
+감각동사(오감)+형용사 보어\
+look/sound/feel/smell/taste
+
+remain(stay)+보어=보어인 상태로 남다
+
+find+o+o.c=o가o.c라고 발견(생각)하다
+
+think+o+o.c=o가 o.c라고 생각하다
+
+make+o+o.c=o가 o.c하게 만들다
+
+## 왕기초 LC 2강 - 기초다지기 2
+
+시제와 태
+
+시제
+
+* 현재 진행
+* 현재
+* 현재 완료
+
+태
+
+* 능동
+* 수동
+
+현재 진행 시제\
+주어 + 현재be + ing\
+they are looking at some paper
+
+현재 시제\
+주어 + 현재be + 위치/상태\
+There + is/are + 위치/상태\
+some people are in the meeting room
+
+현재 완료 시제\
+주어 + has/have+p.p(-ed)\
+he has set the table
+
+* 능동: 주어가 동사한다.
+* 수동: 주어가 동사 당한다/되다. - be + p.p.
+
+현재 진행 수동태\
+s + 현재be + being + p.p.\
+a mirror is being cleaned.
+
+현재 수동태\
+s + 현재be + p.p.\
+some windows are closed
+
+현재 완료 수동태\
+s + has/have + been + p.p.\
+some books have been piled up
+
+꿀팁으로 being은 강조하며 been은 강조하지 않아 들을 때 구
