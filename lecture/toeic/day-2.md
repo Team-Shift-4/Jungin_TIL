@@ -142,4 +142,4 @@ some windows are closed
 s + has/have + been + p.p.\
 some books have been piled up
 
-꿀팁으로 being은 강조하며 been은 강조하지 않아 들을 때 구
+꿀팁으로 being은 강조하며 been은 강조하지 않아 들을 때 구분 가능
