@@ -28,11 +28,21 @@ description: 01.01 ~ 01.05
 
 ## 01.03 - Fri
 
-ㅁㄴㄹ토익&#x20;
+토익 휴가
+
+4th Seminar 준비
 
 ## 01.04 - Sat
 
-
+{% content-ref url="../../lecture/toeic/day-4.md" %}
+[day-4.md](../../lecture/toeic/day-4.md)
+{% endcontent-ref %}
 
 ## 01.05 - Sun
+
+4th Seminar 준비
+
+{% content-ref url="../../lecture/toeic/day-5.md" %}
+[day-5.md](../../lecture/toeic/day-5.md)
+{% endcontent-ref %}
 
