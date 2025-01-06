@@ -8,7 +8,7 @@ hidden: true
 
 ## Jungin Kim
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th data-type="users" data-multiple>Name</th><th>Address</th><th>Phone</th><th>Website</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/u/mkfF8qKO2UWp0jnRWGd3XuLklBF3">JungIn Kim</a></td><td>대구광역시 북구 대불서길 46</td><td>+82.10.6800.6842</td><td>https://www.jungin.kim</td><td><a href=".gitbook/assets/KakaoTalk_20250106_140909887.jpg">KakaoTalk_20250106_140909887.jpg</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th data-type="users" data-multiple>Name</th><th>Address</th><th>Phone</th><th data-type="content-ref">Website</th><th data-hidden data-type="files"></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/u/mkfF8qKO2UWp0jnRWGd3XuLklBF3">JungIn Kim</a></td><td>대구광역시 북구 대불서길 46</td><td>+82.10.6800.6842</td><td><a href="https://www.jungin.kim">https://www.jungin.kim</a></td><td><a href=".gitbook/assets/KakaoTalk_20250106_140909887.jpg">KakaoTalk_20250106_140909887.jpg</a></td></tr></tbody></table>
 
 ### Education
 
