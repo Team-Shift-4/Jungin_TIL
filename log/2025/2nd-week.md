@@ -1,6 +1,6 @@
 ---
-description: 01.06 ~ 01.12
 icon: square
+description: 01.06 ~ 01.12
 ---
 
 # 2nd week
@@ -9,7 +9,7 @@ icon: square
 
 랩실 첫 출근!!!
 
-4th Seminar 준비
+4th Seminar 준비 4장 3절 중간(325P)
 
 {% content-ref url="../../preparation/toeic/day-6.md" %}
 [day-6.md](../../preparation/toeic/day-6.md)
