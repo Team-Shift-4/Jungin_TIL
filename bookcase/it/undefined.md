@@ -1,6 +1,6 @@
 ---
+icon: square-check
 description: 책 [소프트웨어 스펙의 모든 것]을 읽고 정리한 문서이다.
-icon: check
 ---
 
 # 소프트웨어 스펙의 모든 것

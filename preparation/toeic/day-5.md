@@ -1,5 +1,6 @@
 ---
 description: 25.01.05
+icon: square-check
 ---
 
 # Day 5

@@ -1,10 +1,11 @@
 ---
 description: 25.01.02
+icon: square-check
 ---
 
 # Day 2
 
-## 왕기초 RC 문법 2강 - 목적어 / 보어 / 수식어
+## RC 문법 2강 - 목적어 / 보어 / 수식어
 
 목적어 = 동사의 대상(\~을/를)
 
@@ -62,7 +63,7 @@ be+보어, v+o+o.c
 
     The seminar will begin **when** he arrives
 
-## 왕기초 RC 독해 2강 - 목적어 / 보어 / 수식어
+## RC 독해 2강 - 목적어 / 보어 / 수식어
 
 자동사 + 목적어 x
 
@@ -99,7 +100,7 @@ think+o+o.c=o가 o.c라고 생각하다
 
 make+o+o.c=o가 o.c하게 만들다
 
-## 왕기초 LC 2강 - 기초다지기 2
+## LC 2강 - 기초다지기 2
 
 시제와 태
 

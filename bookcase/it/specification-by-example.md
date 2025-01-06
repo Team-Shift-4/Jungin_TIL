@@ -1,6 +1,6 @@
 ---
+icon: square-check
 description: 책 [Specification by Example(성공적인 프로젝트를 관통하는 핵심 실천법)]을 읽고 정리한 문서이다.
-icon: check
 ---
 
 # Specification by Example

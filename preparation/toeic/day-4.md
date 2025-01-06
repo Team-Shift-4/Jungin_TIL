@@ -1,5 +1,6 @@
 ---
 description: 25.01.04
+icon: square-check
 ---
 
 # Day 4

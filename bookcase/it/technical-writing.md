@@ -1,6 +1,6 @@
 ---
+icon: square-check
 description: 책 [이공계 Technical Writing 가이드]를 읽고 정리한 문서이다.
-icon: check
 ---
 
 # 이공계 Technical Writing 가이드
