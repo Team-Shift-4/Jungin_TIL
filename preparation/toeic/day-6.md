@@ -1,5 +1,5 @@
 ---
-icon: square
+icon: square-check
 description: 25.01.06
 ---
 
