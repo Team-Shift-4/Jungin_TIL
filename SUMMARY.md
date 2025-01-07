@@ -16,6 +16,7 @@
   * [Day 4](preparation/toeic/day-4.md)
   * [Day 5](preparation/toeic/day-5.md)
   * [Day 6](preparation/toeic/day-6.md)
+  * [Day 7](preparation/toeic/day-7.md)
 
 ## PROJECT
 
@@ -40,6 +41,7 @@
     * [2nd Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/2nd-seminar.md)
     * [3rd Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/3rd-seminar.md)
     * [4th Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/4th-seminar.md)
+    * [5th Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/5th-seminar.md)
 
 ## ARKDATA
 

@@ -19,11 +19,18 @@ description: 01.06 ~ 01.12
 
 ## 01.07 - Tue
 
+4th Seminar 내용 준비 완료
+
+{% content-ref url="../../preparation/toeic/day-7.md" %}
+[day-7.md](../../preparation/toeic/day-7.md)
+{% endcontent-ref %}
+
 
 
 ## 01.08 - Wed
 
-
+3rd Seminar 수정 사항 4th Seminar에 추가 예정\
+이후 시간 남을 시 5th Seminar 준비 예정
 
 ## 01.09 - Thu
 
