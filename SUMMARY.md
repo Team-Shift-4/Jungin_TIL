@@ -17,6 +17,7 @@
   * [Day 5](preparation/toeic/day-5.md)
   * [Day 6](preparation/toeic/day-6.md)
   * [Day 7](preparation/toeic/day-7.md)
+  * [Day 8](preparation/toeic/day-8.md)
 
 ## PROJECT
 
