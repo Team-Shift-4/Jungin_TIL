@@ -247,6 +247,19 @@ Example
 
 ### 1.3. Predicates and Quantifiers
 
+#### Predicates
+
+Proposion 'A is B'에서 A를 Subject(주어), B를 Predicate(술어)라고 한다.
+
+Propositional function(=Condition)은 Variable value에 따라 Truth value가 달라지는 Proposition이다.
+
+Propositional function P($$x_1$$, $$x_2$$, $$x_3$$, ..., $$x_n$$)을 n-place predicate(n항 술어)라 한다.
+
+Predicate는 Variable이 지정되지 않은 경우 Truth value를 가질 수 없다.
+
+* Precondition(사전 조건): 유효한 Input을 기술하는 Statement를 의미
+* Postcondition(사후 조건): 유효한 Output을 기술하는 Statement를 의미
+
 
 
 
