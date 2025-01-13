@@ -133,4 +133,27 @@ What으로 물어볼 때 답하는 표현
 
 invest in \~ = \~에 투자하다
 
+
+
 invest + O + in \~ = O를 \~에 투자하다
+
+## RC 9강 독해 - 접속사 해석하기
+
+A yet B = A but B
+
+A for B = A 왜냐하면 B
+
+be busy Ving = V하느라 바쁘다
+
+(형용사 + 등위접속사 + 형용사) + 명사
+
+so vs therefore\
+등위접속사 so: 한 문장에서 양쪽 대상을 직접적으로 연결\
+부사 therefore: 두 문장을 의미상으로만 연결
+
+not only A but B = not only A but also B
+
+상관접속사는 수 일치시킬 때 B를 활용하나 Both는 의미상 두 개 이므로 복수
+
+take advantage of \~ = \~을 이용하다
+

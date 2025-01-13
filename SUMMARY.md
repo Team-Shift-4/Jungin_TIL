@@ -29,7 +29,8 @@
   * [Specification by Example](bookcase/it/specification-by-example.md)
   * [이공계 Technical Writing 가이드](bookcase/it/technical-writing.md)
   * [소프트웨어 스펙의 모든 것](bookcase/it/undefined.md)
-  * [Discrete Mathematics and ITs Applications](bookcase/it/discrete-mathematics-and-its-applications.md)
+  * [Discrete Mathematics and ITs Applications](bookcase/it/discrete-mathematics-and-its-applications/README.md)
+    * [1. The Foundation: Logic and Proofs](bookcase/it/discrete-mathematics-and-its-applications/1.-the-foundation-logic-and-proofs.md)
 
 ## KNU M.S.
 
