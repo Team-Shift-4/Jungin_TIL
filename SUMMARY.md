@@ -47,6 +47,7 @@
     * [3rd Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/3rd-seminar.md)
     * [4th Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/4th-seminar.md)
     * [5th Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/5th-seminar.md)
+* ['25\_1\_Programming Basics Teaching Assistant](software-testing-lab/25_1_programming-basics-teaching-assistant.md)
 
 ## ARKDATA
 
