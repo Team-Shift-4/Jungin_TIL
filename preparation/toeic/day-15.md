@@ -1,6 +1,6 @@
 ---
+icon: square-check
 description: 25.01.15
-icon: square
 ---
 
 # Day 15
