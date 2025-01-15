@@ -31,6 +31,7 @@
   * [소프트웨어 스펙의 모든 것](bookcase/it/undefined.md)
   * [Discrete Mathematics and ITs Applications](bookcase/it/discrete-mathematics-and-its-applications/README.md)
     * [1. The Foundation: Logic and Proofs](bookcase/it/discrete-mathematics-and-its-applications/1.-the-foundation-logic-and-proofs.md)
+    * [2. Basic Structures: Sets, Functions, Sequences and Sums](bookcase/it/discrete-mathematics-and-its-applications/2.-basic-structures-sets-functions-sequences-and-sums.md)
 
 ## KNU M.S.
 
