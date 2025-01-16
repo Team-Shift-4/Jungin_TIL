@@ -33,6 +33,10 @@
   * [Discrete Mathematics and ITs Applications](bookcase/it/discrete-mathematics-and-its-applications/README.md)
     * [1. The Foundation: Logic and Proofs](bookcase/it/discrete-mathematics-and-its-applications/1.-the-foundation-logic-and-proofs.md)
     * [2. Basic Structures: Sets, Functions, Sequences and Sums](bookcase/it/discrete-mathematics-and-its-applications/2.-basic-structures-sets-functions-sequences-and-sums.md)
+    * [3. The Fundamentals: Algorithms, the Integers and Matrices](bookcase/it/discrete-mathematics-and-its-applications/3.-the-fundamentals-algorithms-the-integers-and-matrices.md)
+    * [4. Induction and Recursion](bookcase/it/discrete-mathematics-and-its-applications/4.-induction-and-recursion.md)
+    * [5. Counting](bookcase/it/discrete-mathematics-and-its-applications/5.-counting.md)
+    * [6. Discrete Probability](bookcase/it/discrete-mathematics-and-its-applications/6.-discrete-probability.md)
 
 ## KNU M.S.
 
