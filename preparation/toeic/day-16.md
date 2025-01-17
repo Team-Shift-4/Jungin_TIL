@@ -1,6 +1,6 @@
 ---
-description: 25.01.16
 icon: square
+description: 25.01.16
 ---
 
 # Day 16
@@ -34,7 +34,7 @@ go to / get to / travel to = 가다
   * It depends on the price
   * It depends on the weather
 
-## RC 11강 - 조동사
+## RC 11강 문법- 조동사
 
 조동사는 동사에 추가적인 의미를 더해주는 역할을 한다.
 
@@ -60,3 +60,37 @@ go to / get to / travel to = 가다
 
 제안/의무/요청/주장을 나타내는 동사나 형용사가 That절과 함께 사용되면 that절 내 Should가 생략되고 동사 원형만이 남을 수 있다.
 
+## RC 11강 독해 - 조동사 해석하기
+
+call for \~ = \~을 요구하다\
+call a meeting = 회의를 소집하다\
+call O O.C = O를 O.C라고 부른다
+
+in + 기간 = 기간 후에\
+within + 기간 = 기간 내에
+
+must 해야한다/\~임에 틀림없다
+
+leave of absence 휴가 leave 휴가
+
+cause + O + to-v = O가 v하는 것을 야기하다
+
+동사 hire 고용하다 / 명사 hire 신입사원
+
+might have p.p. = p.p했을 지도 모른다
+
+must have p.p. = p.p.했음에 틀림없다
+
+could have p.p. = p.p.할 수도 있었다
+
+should have p,p. = p.p.했어야 했다
+
+already = 이미(긍정문에만 쓰임)
+
+be sure + S + V = S+V(문장)이라고 확신하다
+
+instead of + 명사 = 전치사(명사 대신에)\
+부사instead = 대신에
+
+complain about + 명사 = 명사에 관해 불평하다\
+complain that S+V = S+V라고 불평하다
