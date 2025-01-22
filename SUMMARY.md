@@ -39,6 +39,7 @@
     * [4. Induction and Recursion](bookcase/it/discrete-mathematics-and-its-applications/4.-induction-and-recursion.md)
     * [5. Counting](bookcase/it/discrete-mathematics-and-its-applications/5.-counting.md)
     * [6. Discrete Probability](bookcase/it/discrete-mathematics-and-its-applications/6.-discrete-probability.md)
+    * [7. Adcanced Counting Techniques](bookcase/it/discrete-mathematics-and-its-applications/7.-adcanced-counting-techniques.md)
 
 ## KNU M.S.
 
