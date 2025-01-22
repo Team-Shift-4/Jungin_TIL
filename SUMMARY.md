@@ -2,12 +2,6 @@
 
 * [TIL](README.md)
 
-## Log
-
-* [2025](log/2025/README.md)
-  * [2nd week](log/2025/2nd-week.md)
-  * [1st week](log/2025/1st-week.md)
-
 ## PREPARATION
 
 * [TOEIC](preparation/toeic/README.md)
