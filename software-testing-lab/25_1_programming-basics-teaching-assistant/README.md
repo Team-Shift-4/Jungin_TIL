@@ -12,3 +12,5 @@ KNU Online Judge
 Lecture Timetable
 {% endembed %}
 
+Tue 6A,B\~9A,B(14:00\~18:00)\
+Thu 6A,B\~9A,B(14:00\~18:00)

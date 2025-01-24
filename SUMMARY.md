@@ -37,7 +37,8 @@
 
 ## KNU M.S.
 
-* [KNU M.S.](knu-m.s./knu-m.s..md)
+* [KNU M.S.](knu-m.s./knu-m.s./README.md)
+  * [1st Semester](knu-m.s./knu-m.s./1st-semester.md)
 
 ## SOFTWARE TESTING LAB
 
