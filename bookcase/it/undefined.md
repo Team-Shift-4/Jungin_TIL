@@ -5,7 +5,7 @@ description: 책 [소프트웨어 스펙의 모든 것]을 읽고 정리한 문�
 
 # 소프트웨어 스펙의 모든 것
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p>소프트웨어 스펙의 모든 것</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p>소프트웨어 스펙의 모든 것</p></figcaption></figure>
 
 ## 소프트웨어 스펙의 개요
 
@@ -142,7 +142,7 @@ description: 책 [소프트웨어 스펙의 모든 것]을 읽고 정리한 문�
 
 프로젝트의 모든 이해관계자가 스펙을 참조하거나 작성에 참여해 스펙은 다시 여러 이해관계자들에게 전달되어 본연의 역할을 수행한다.
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="프로젝트의 모든 이해관계자가 참조하는 SRS" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (2).svg" alt="프로젝트의 모든 이해관계자가 참조하는 SRS" class="gitbook-drawing">
 
 #### 고객, 마케팅, 영업팀은 어떤 제품이 만들어질지 미리 알 수 있다
 
@@ -173,7 +173,7 @@ description: 책 [소프트웨어 스펙의 모든 것]을 읽고 정리한 문�
 소프트웨어 전체 아키텍처가 분석, 설계에서 정해져서 개발자에게 한정된 재량만 주어져야 한다.\
 그렇게 해야 의도한 대로 소프트웨어가 개발된다.
 
-<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="프로젝트에서 SRS의 위치" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (1) (1).svg" alt="프로젝트에서 SRS의 위치" class="gitbook-drawing">
 
 #### 테스트팀은 스펙을 통해 테스트 계획 및 테스트 케이스를 작성한다
 

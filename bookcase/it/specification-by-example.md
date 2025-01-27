@@ -9,7 +9,7 @@ description: 책 [Specification by Example(성공적인 프로젝트를 관통�
 
 ## 핵심 이점
 
-<img src="../../.gitbook/assets/file.excalidraw (2).svg" alt=" [그림 1] 올바른 제품을 만드는 데 기여하는 예제를 활용한 명제" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (2) (1).svg" alt=" [그림 1] 올바른 제품을 만드는 데 기여하는 예제를 활용한 명제" class="gitbook-drawing">
 
 올바른 제품을 효과적으로 만들기 위한 소프트웨어 개발 실천법에는 아래와 같은 사항들이 보장되어야 한다.
 
