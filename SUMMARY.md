@@ -2,24 +2,6 @@
 
 * [TIL](README.md)
 
-## PREPARATION
-
-* [TOEIC](preparation/toeic/README.md)
-  * [Day 1](preparation/toeic/day-1.md)
-  * [Day 2](preparation/toeic/day-2.md)
-  * [Day 4](preparation/toeic/day-4.md)
-  * [Day 5](preparation/toeic/day-5.md)
-  * [Day 6](preparation/toeic/day-6.md)
-  * [Day 7](preparation/toeic/day-7.md)
-  * [Day 8](preparation/toeic/day-8.md)
-  * [Day 9](preparation/toeic/day-9.md)
-  * [Day 10](preparation/toeic/day-10.md)
-  * [Day 15](preparation/toeic/day-15.md)
-  * [Day 16](preparation/toeic/day-16.md)
-  * [Day 20](preparation/toeic/day-20.md)
-  * [Day 24-25](preparation/toeic/day-24-25.md)
-  * [Day 26-27](preparation/toeic/day-26-27.md)
-
 ## PROJECT
 
 ## Bookcase

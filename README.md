@@ -19,3 +19,10 @@ hidden: true
 ### Work Experience
 
 <table><thead><tr><th width="178">Start(YY.MM)</th><th width="167">End(YY.MM)</th><th>Description</th></tr></thead><tbody><tr><td>22.09</td><td>24.06</td><td>Arkdata(1Y 9M)</td></tr><tr><td>25.01</td><td></td><td>KNU Software Testing Lab.</td></tr></tbody></table>
+
+### Routine
+
+* TOEIC 하루 강의 1개 이상 듣기
+* 매일 세미나 준비
+* TA 준비
+* 정신 건강 챙기기
