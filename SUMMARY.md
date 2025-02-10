@@ -25,20 +25,13 @@
 * [KNU M.S.](knu-m.s./knu-m.s./README.md)
   * [1st Semester](knu-m.s./knu-m.s./1st-semester.md)
 
-## SOFTWARE TESTING LAB
+## ESELAB
 
-* [Software Testing Lab.](software-testing-lab/software-testing-lab..md)
-* [Seminar](software-testing-lab/seminar/README.md)
-  * [Discrete Mathematics and Its Applications Sixth Edition](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/README.md)
-    * [1st Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/1st-seminar.md)
-    * [2nd Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/2nd-seminar.md)
-    * [3rd Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/3rd-seminar.md)
-    * [4th Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/4th-seminar.md)
-    * [5th Seminar](software-testing-lab/seminar/discrete-mathematics-and-its-applications-sixth-edition/5th-seminar.md)
-* ['25\_1\_Programming Basics Teaching Assistant](software-testing-lab/25_1_programming-basics-teaching-assistant/README.md)
-  * [Quiz](software-testing-lab/25_1_programming-basics-teaching-assistant/quiz/README.md)
-    * [1. Programming Basics 1](software-testing-lab/25_1_programming-basics-teaching-assistant/quiz/1.-programming-basics-1.md)
-    * [2. Programming Basics 2](software-testing-lab/25_1_programming-basics-teaching-assistant/quiz/2.-programming-basics-2.md)
+* [ESELab.](eselab/eselab..md)
+* ['25\_1\_Programming Basics Teaching Assistant](eselab/25_1_programming-basics-teaching-assistant/README.md)
+  * [Quiz](eselab/25_1_programming-basics-teaching-assistant/quiz/README.md)
+    * [1. Programming Basics 1](eselab/25_1_programming-basics-teaching-assistant/quiz/1.-programming-basics-1.md)
+    * [2. Programming Basics 2](eselab/25_1_programming-basics-teaching-assistant/quiz/2.-programming-basics-2.md)
 
 ## ARKDATA
 
