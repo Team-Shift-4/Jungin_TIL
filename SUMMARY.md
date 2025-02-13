@@ -19,6 +19,7 @@
     * [6. Discrete Probability](bookcase/it/discrete-mathematics-and-its-applications/6.-discrete-probability.md)
     * [7. Advanced Counting Techniques](bookcase/it/discrete-mathematics-and-its-applications/7.-advanced-counting-techniques.md)
     * [8. Relations](bookcase/it/discrete-mathematics-and-its-applications/8.-relations.md)
+    * [9. Graphs](bookcase/it/discrete-mathematics-and-its-applications/9.-graphs.md)
 
 ## KNU M.S.
 
