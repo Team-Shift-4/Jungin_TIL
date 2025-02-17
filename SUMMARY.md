@@ -20,6 +20,7 @@
     * [7. Advanced Counting Techniques](bookcase/it/discrete-mathematics-and-its-applications/7.-advanced-counting-techniques.md)
     * [8. Relations](bookcase/it/discrete-mathematics-and-its-applications/8.-relations.md)
     * [9. Graphs](bookcase/it/discrete-mathematics-and-its-applications/9.-graphs.md)
+    * [10. Trees](bookcase/it/discrete-mathematics-and-its-applications/10.-trees.md)
 
 ## KNU M.S.
 
