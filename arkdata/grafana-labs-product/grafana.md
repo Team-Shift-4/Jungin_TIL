@@ -107,4 +107,4 @@ sudo systemctl status grafana-server
 sudo systemctl enable grafana-server.service
 ```
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Grafana</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Grafana</p></figcaption></figure>
