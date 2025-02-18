@@ -22,6 +22,7 @@
     * [9. Graphs](bookcase/it/discrete-mathematics-and-its-applications/9.-graphs.md)
     * [10. Trees](bookcase/it/discrete-mathematics-and-its-applications/10.-trees.md)
     * [11. Boolean Algebra](bookcase/it/discrete-mathematics-and-its-applications/11.-boolean-algebra.md)
+    * [12. Modeling Computation](bookcase/it/discrete-mathematics-and-its-applications/12.-modeling-computation.md)
 
 ## KNU M.S.
 
