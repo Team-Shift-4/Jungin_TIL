@@ -20,7 +20,7 @@ Debezium Server는 Source Database에서 다양한 Messaging Infrastructure로 C
 
 아래는 Debezium Server를 사용하는 CDC Pipeline의 Architecture이다.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Debezium Server</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Debezium Server</p></figcaption></figure>
 
 Debezium Server는 Debezium Source Connector 중 하나를 사용해 Source DB의 Change Event를 Capture하도록 구성된다.
 
