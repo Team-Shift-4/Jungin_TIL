@@ -27,7 +27,10 @@
 ## KNU M.S.
 
 * [KNU M.S.](knu-m.s./knu-m.s./README.md)
-  * [1st Semester](knu-m.s./knu-m.s./1st-semester.md)
+  * [1st Semester](knu-m.s./knu-m.s./1st-semester/README.md)
+    * [Artificial Intelligence: Convergence and Applications](knu-m.s./knu-m.s./1st-semester/artificial-intelligence-convergence-and-applications.md)
+    * [How to Write Research Papers](knu-m.s./knu-m.s./1st-semester/how-to-write-research-papers.md)
+    * [Design and Analysis of Algorithms](knu-m.s./knu-m.s./1st-semester/design-and-analysis-of-algorithms.md)
 
 ## ESELAB
 
