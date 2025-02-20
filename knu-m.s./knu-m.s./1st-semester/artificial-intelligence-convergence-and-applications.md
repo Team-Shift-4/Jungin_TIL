@@ -1,6 +1,6 @@
 ---
-description: GRAD0732-001 / Wed. 1A~3B / 공대9호관 521 / 이성현 교수님 sh0416@knu.ac.kr
 icon: brain-circuit
+description: GRAD0732-001 / Wed. 09:00~12:00 / 공대9호관 521 / 이성현 교수님 sh0416@knu.ac.kr
 ---
 
 # Artificial Intelligence: Convergence and Applications

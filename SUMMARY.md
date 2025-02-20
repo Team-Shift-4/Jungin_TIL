@@ -35,6 +35,7 @@
 ## ESELAB
 
 * [ESELab.](eselab/eselab..md)
+  * [BK Manual](eselab/eselab./bk-manual.md)
 * ['25\_1\_Programming Basics Teaching Assistant](eselab/25_1_programming-basics-teaching-assistant/README.md)
   * [Quiz](eselab/25_1_programming-basics-teaching-assistant/quiz/README.md)
     * [1. Programming Basics 1](eselab/25_1_programming-basics-teaching-assistant/quiz/1.-programming-basics-1.md)

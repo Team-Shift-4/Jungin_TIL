@@ -1,6 +1,6 @@
 ---
-description: COME0701-001 / Thu. 1A~3B / 공대9호관 521 / 윤겨레 교수님 gyeoreyun@knu.ac.kr
 icon: file-pen
+description: COME0701-001 / Thu. 09:00~12:00 / 공대9호관 521 / 윤겨레 교수님 gyeoreyun@knu.ac.kr
 ---
 
 # How to Write Research Papers
