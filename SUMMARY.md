@@ -38,8 +38,17 @@
   * [BK Manual](eselab/eselab./bk-manual.md)
 * ['25\_1\_Programming Basics Teaching Assistant](eselab/25_1_programming-basics-teaching-assistant/README.md)
   * [Quiz](eselab/25_1_programming-basics-teaching-assistant/quiz/README.md)
-    * [1. Programming Basics 1](eselab/25_1_programming-basics-teaching-assistant/quiz/1.-programming-basics-1.md)
-    * [2. Programming Basics 2](eselab/25_1_programming-basics-teaching-assistant/quiz/2.-programming-basics-2.md)
+    * [Quiz\_ch0\_1](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch0_1.md)
+    * [Quiz\_ch2](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch2.md)
+    * [Quiz\_ch3](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch3.md)
+    * [Quiz\_ch4\_5](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch4_5.md)
+    * [Quiz\_ch6](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch6.md)
+    * [Quiz\_7](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_7.md)
+    * [Quiz\_ch7\_1](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch7_1.md)
+    * [Quiz\_ch9\_1](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch9_1.md)
+    * [Quiz\_ch10](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch10.md)
+    * [Quiz\_ch10\_2](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch10_2.md)
+    * [Quiz\_ch11\_2](eselab/25_1_programming-basics-teaching-assistant/quiz/quiz_ch11_2.md)
 
 ## ARKDATA
 
