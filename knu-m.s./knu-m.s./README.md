@@ -96,4 +96,4 @@ COMP0735-001 금 8B\~11A 김재일 교수님
 
 GRAD0732-001 수 1A\~3B 이성현 교수님
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
