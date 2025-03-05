@@ -29,7 +29,8 @@
 
 * [KNU M.S.](knu-m.s./knu-m.s./README.md)
   * [1st Semester](knu-m.s./knu-m.s./1st-semester/README.md)
-    * [Artificial Intelligence: Convergence and Applications](knu-m.s./knu-m.s./1st-semester/artificial-intelligence-convergence-and-applications.md)
+    * [Artificial Intelligence: Convergence and Applications](knu-m.s./knu-m.s./1st-semester/artificial-intelligence-convergence-and-applications/README.md)
+      * [25.03.05](knu-m.s./knu-m.s./1st-semester/artificial-intelligence-convergence-and-applications/25.03.05.md)
     * [How to Write Research Papers](knu-m.s./knu-m.s./1st-semester/how-to-write-research-papers.md)
     * [Design and Analysis of Algorithms](knu-m.s./knu-m.s./1st-semester/design-and-analysis-of-algorithms.md)
 
