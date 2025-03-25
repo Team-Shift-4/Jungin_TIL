@@ -4,9 +4,13 @@
 
 ## PROJECT
 
+## PAPER
+
+* [Genarative AI](paper/genarative-ai/README.md)
+  * [Exploring the Competency of ChatGPT in Solving Competitive Programming Challanges](paper/genarative-ai/exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md)
+
 ## Bookcase
 
-* [Page](bookcase/page.md)
 * [IT](bookcase/it/README.md)
   * [Specification by Example](bookcase/it/specification-by-example.md)
   * [이공계 Technical Writing 가이드](bookcase/it/technical-writing.md)
