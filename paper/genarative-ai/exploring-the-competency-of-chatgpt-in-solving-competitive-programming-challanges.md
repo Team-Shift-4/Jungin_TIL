@@ -126,3 +126,46 @@ class Solution {
     }
 }
 ```
+
+하지만 연구에 사용한 Online judge인 LeetCode에서 문제를 제출하기 위한 특정 명세를 충족하지 못할 경우 Solution 자체를 Compile error로 처리하며 제출에 부합하지 않는 Solution을 생성하는 확률이 절반 정도여서 이 접근 방식 또한 한계가 존재했다.
+
+앞 접근 방식의 한계를 해결하기 위해 Solution 명세에 대한 상세한 정보를 제공하는 Prompt engineering을 통하여 작성하였다.(앞 접근 방식과 Prompt에 제공하는 정보는 동일)
+
+아래에서는ChatGPT의 Response pattern을 세 부분으로 구분하여 논의한다.
+
+* 첫 번째부분 : 제공한 정보에 대한 소개\
+  "Certainly! Here's a solution for the problem."
+* 두 번째 부분 : 코드 제공
+* 세 번째 부분 : 생성된 Solution 설명
+
+LeetCode의 제출 상태는 아래와 같다.
+
+* Accepted
+* Wrong Answer
+* Runtime Error
+* Time Limit Exceeded
+* Complie Error
+
+## 5. Result Discussion
+
+요약하여 사람의 정답률은 52.95%, ChatGPT의 정답률은 66%이다.\
+전체적으로 사람보다 뛰어난 성능이 나왔다.\
+난이도 수준을 고려한 전체 성능 분석에서 쉬움, 중간 어려움에 해당하는 사람의 정답률이  62.72%, 54.04%, 36.87%인데 비해 ChatGPT의 정답률은 89%, 68%, 41%로 나왔다.\
+ChatGPT 역시 더 복잡하고 어려운 문제를 다룰 때 정답률이 떨어지는 것을 확인할 수 있었다.
+
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Average acceptance rate of human submissions with standard deviation(SD) and ChatGPT generated solutions.</p></figcaption></figure>
+
+위 Table을 요약하여 ChatGPT는 Binary Search에 강세를 보이고 Math, Greedy Approach, Bit Manipulation에서 약세를 보였다.
+
+## 6. Threats to Validity
+
+더 다양한 문제와 Data set으로 향상된 일반화가 가능하다.\
+LeetCode에서 생성했기에 해당 Platform의 제출 통계로 고려하였으나 다른 Online judge를 활용한다면 결과가 다를 수 있다.\
+ChatGTP는 지속적으로 발전하기에 똑같은 연구를 했을 때 똑같은 결과가 나오지 않을 수 있다.
+
+## 7. Conclusion
+
+
+
+
+
