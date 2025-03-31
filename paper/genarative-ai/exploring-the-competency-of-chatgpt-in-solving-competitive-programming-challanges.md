@@ -6,7 +6,11 @@ description: >-
 
 # Exploring the Competency of ChatGPT in Solving Competitive Programming Challanges
 
-{% embed url="https://www.researchgate.net/profile/Sourav-Barman-4/publication/378042421_Exploring_the_Competency_of_ChatGPT_in_Solving_Competitive_Programming_Challenges/links/65c4ac411e1ec12eff7bfb03/Exploring-the-Competency-of-ChatGPT-in-Solving-Competitive-Programming-Challenges.pdf" %}
+{% embed url="https://www.warse.org/IJATCSE/static/pdf/file/ijatcse031312024.pdf" %}
+
+
+
+International Journal
 
 Received Date : December 20, 2023\
 Accepted Date: January 21, 2024\
