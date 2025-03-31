@@ -7,6 +7,7 @@
 ## PAPER
 
 * [Genarative AI](paper/genarative-ai/README.md)
+  * [ChatGPT의 경쟁 프로그래밍 통과율을 분석](paper/genarative-ai/chatgpt.md)
   * [Exploring the Competency of ChatGPT in Solving Competitive Programming Challanges](paper/genarative-ai/exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md)
 
 ## Bookcase
