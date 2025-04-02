@@ -1,63 +1,217 @@
-# ChatGPT의 경쟁 프로그래밍 통과율을 분석
+# 기획중 - 소프트웨어테스팅 기법을 활용하여 ChatGPT의 신뢰도를 올리는 방법
 
-GPT-3.5, GPT-4의 경쟁 프로그래밍 문제의 통과율을 분석
+{% content-ref url="exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md" %}
+[exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md](exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md)
+{% endcontent-ref %}
 
-문제 구분은 아래와 같음
+위 글을 참고하여 GPT가 인간보다 약세, 강세, 비슷한 경향을 보이는 문제 유형을 선정하였다
 
-* Mathematics
-* Implementation
-* Dynamic Programming
-* Data Structures
-* Graph Theory
-* Greedy
-* String
-* Bruteforcing
-* Graph Traversal
-* Sorting
-* Ad-hoc
-* Geometry
-* Number Theory
-* Tree
-* Segment Tree
-* Binary Search
-* Constructive
-* Arithmetic
-* Simulation
-* Prefix Sum
-* Breath-first Search
-* Depth-first Search
-* Combinatorics
-* Case Work
-* Bitmask
-* Set / Map by Hashing
-* Shortest Path
-* Dijkstra's
-* Backtracking
-* Sweeping
-* Disjoint Set
-* Set / Map by Trees
-* Parsing
-* Dynamic Programming on Trees
-* Priority Queue
-* Divide And Conquer
-* Game Theory
-* Stack
-* Primality Test
-* Dynamic Programming Using Bitfield
-* Arbitrary Precision / Big Integers
-* Minimum Spanning Tree
-* Directed Acyclic Graph
-* Precomputation - 전처리!!
-* Linear Algebra
-* Topological Sorting
-* Randomization
+* GPT < Human
+  * Greedy approach
+    * EASY
+      * [https://www.acmicpc.net/problem/11399](https://www.acmicpc.net/problem/11399)
+      * [https://www.acmicpc.net/problem/11047](https://www.acmicpc.net/problem/11047)
+      * [https://www.acmicpc.net/problem/2720](https://www.acmicpc.net/problem/2720)
+      * [https://www.acmicpc.net/problem/5585](https://www.acmicpc.net/problem/5585)
+      * [https://www.acmicpc.net/problem/2217](https://www.acmicpc.net/problem/2217)
+      * [https://www.acmicpc.net/problem/10162](https://www.acmicpc.net/problem/10162)
+      * [https://www.acmicpc.net/problem/1439](https://www.acmicpc.net/problem/1439)
+      * [https://www.acmicpc.net/problem/1049](https://www.acmicpc.net/problem/1049)
+      * [https://www.acmicpc.net/problem/2847](https://www.acmicpc.net/problem/2847)
+      * [https://www.acmicpc.net/problem/2864](https://www.acmicpc.net/problem/2864)
+    * MEDIUM
+      * [https://www.acmicpc.net/problem/2437](https://www.acmicpc.net/problem/2437)
+      * [https://www.acmicpc.net/problem/1202](https://www.acmicpc.net/problem/1202)
+      * [https://www.acmicpc.net/problem/1339](https://www.acmicpc.net/problem/1339)
+      * [https://www.acmicpc.net/problem/1744](https://www.acmicpc.net/problem/1744)
+      * [https://www.acmicpc.net/problem/11000](https://www.acmicpc.net/problem/11000)
+      * [https://www.acmicpc.net/problem/12904](https://www.acmicpc.net/problem/12904)
+      * [https://www.acmicpc.net/problem/2212](https://www.acmicpc.net/problem/2212)
+      * [https://www.acmicpc.net/problem/1700](https://www.acmicpc.net/problem/1700)
+      * [https://www.acmicpc.net/problem/3109](https://www.acmicpc.net/problem/3109)
+      * [https://www.acmicpc.net/problem/1092](https://www.acmicpc.net/problem/1092)
+    * HARD
+      * [https://www.acmicpc.net/problem/1092](https://www.acmicpc.net/problem/1092)
+      * [https://www.acmicpc.net/problem/16496](https://www.acmicpc.net/problem/16496)
+      * [https://www.acmicpc.net/problem/18185](https://www.acmicpc.net/problem/18185)
+      * [https://www.acmicpc.net/problem/14939](https://www.acmicpc.net/problem/14939)
+      * [https://www.acmicpc.net/problem/2873](https://www.acmicpc.net/problem/2873)
+      * [https://www.acmicpc.net/problem/1422](https://www.acmicpc.net/problem/1422)
+      * [https://www.acmicpc.net/problem/1201](https://www.acmicpc.net/problem/1201)
+      * [https://www.acmicpc.net/problem/10165](https://www.acmicpc.net/problem/10165)
+      * [https://www.acmicpc.net/problem/10803](https://www.acmicpc.net/problem/10803)
+      * [https://www.acmicpc.net/problem/1150](https://www.acmicpc.net/problem/1150)
+  * Bit manipulation
+    * EASY
+      * [https://www.acmicpc.net/problem/12833](https://www.acmicpc.net/problem/12833)
+      * [https://www.acmicpc.net/problem/27960](https://www.acmicpc.net/problem/27960)
+      * [https://www.acmicpc.net/problem/11723](https://www.acmicpc.net/problem/11723)
+      * [https://www.acmicpc.net/problem/1094](https://www.acmicpc.net/problem/1094)
+      * [https://www.acmicpc.net/problem/24389](https://www.acmicpc.net/problem/24389)
+      * [https://www.acmicpc.net/problem/17419](https://www.acmicpc.net/problem/17419)
+      * [https://www.acmicpc.net/problem/25166](https://www.acmicpc.net/problem/25166)
+      * [https://www.acmicpc.net/problem/28239](https://www.acmicpc.net/problem/28239)
+      * [https://www.acmicpc.net/problem/32343](https://www.acmicpc.net/problem/32343)
+      * [https://www.acmicpc.net/problem/32685](https://www.acmicpc.net/problem/32685)
+    * MEDIUM
+      * [https://www.acmicpc.net/problem/2098](https://www.acmicpc.net/problem/2098)
+      * [https://www.acmicpc.net/problem/1062](https://www.acmicpc.net/problem/1062)
+      * [https://www.acmicpc.net/problem/2961](https://www.acmicpc.net/problem/2961)
+      * [https://www.acmicpc.net/problem/1562](https://www.acmicpc.net/problem/1562)
+      * [https://www.acmicpc.net/problem/1052](https://www.acmicpc.net/problem/1052)
+      * [https://www.acmicpc.net/problem/1194](https://www.acmicpc.net/problem/1194)
+      * [https://www.acmicpc.net/problem/2234](https://www.acmicpc.net/problem/2234)
+      * [https://www.acmicpc.net/problem/15661](https://www.acmicpc.net/problem/15661)
+      * [https://www.acmicpc.net/problem/14391](https://www.acmicpc.net/problem/14391)
+      * [https://www.acmicpc.net/problem/9527](https://www.acmicpc.net/problem/9527)
+    * HARD
+      * [https://www.acmicpc.net/problem/1086](https://www.acmicpc.net/problem/1086)
+      * [https://www.acmicpc.net/problem/1102](https://www.acmicpc.net/problem/1102)
+      * [https://www.acmicpc.net/problem/1014](https://www.acmicpc.net/problem/1014)
+      * [https://www.acmicpc.net/problem/14939](https://www.acmicpc.net/problem/14939)
+      * [https://www.acmicpc.net/problem/1648](https://www.acmicpc.net/problem/1648)
+      * [https://www.acmicpc.net/problem/1657](https://www.acmicpc.net/problem/1657)
+      * [https://www.acmicpc.net/problem/20304](https://www.acmicpc.net/problem/20304)
+      * [https://www.acmicpc.net/problem/14927](https://www.acmicpc.net/problem/14927)
+      * [https://www.acmicpc.net/problem/10937](https://www.acmicpc.net/problem/10937)
+      * [https://www.acmicpc.net/problem/3056](https://www.acmicpc.net/problem/3056)
+* GPT = Human
+  * Sorting
+    * EASY
+      * [https://www.acmicpc.net/problem/2750](https://www.acmicpc.net/problem/2750)
+      * [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751)
+      * [https://www.acmicpc.net/problem/11399](https://www.acmicpc.net/problem/11399)
+      * [https://www.acmicpc.net/problem/1181](https://www.acmicpc.net/problem/1181)
+      * [https://www.acmicpc.net/problem/1920](https://www.acmicpc.net/problem/1920)
+      * [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650)
+      * [https://www.acmicpc.net/problem/10989](https://www.acmicpc.net/problem/10989)
+      * [https://www.acmicpc.net/problem/10817](https://www.acmicpc.net/problem/10817)
+      * [https://www.acmicpc.net/problem/1427](https://www.acmicpc.net/problem/1427)
+      * [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814)
+    * DEMIUM
+      * [https://www.acmicpc.net/problem/1931](https://www.acmicpc.net/problem/1931)
+      * [https://www.acmicpc.net/problem/2470](https://www.acmicpc.net/problem/2470)
+      * [https://www.acmicpc.net/problem/1202](https://www.acmicpc.net/problem/1202)
+      * [https://www.acmicpc.net/problem/1744](https://www.acmicpc.net/problem/1744)
+      * [https://www.acmicpc.net/problem/11000](https://www.acmicpc.net/problem/11000)
+      * [https://www.acmicpc.net/problem/1253](https://www.acmicpc.net/problem/1253)
+      * [https://www.acmicpc.net/problem/5052](https://www.acmicpc.net/problem/5052)
+      * [https://www.acmicpc.net/problem/2473](https://www.acmicpc.net/problem/2473)
+      * [https://www.acmicpc.net/problem/2437](https://www.acmicpc.net/problem/2437)
+      * [https://www.acmicpc.net/problem/2212](https://www.acmicpc.net/problem/2212)
+    * HARD
+      * [https://www.acmicpc.net/problem/2887](https://www.acmicpc.net/problem/2887)
+      * [https://www.acmicpc.net/problem/1517](https://www.acmicpc.net/problem/1517)
+      * [https://www.acmicpc.net/problem/16496](https://www.acmicpc.net/problem/16496)
+      * [https://www.acmicpc.net/problem/13537](https://www.acmicpc.net/problem/13537)
+      * [https://www.acmicpc.net/problem/7469](https://www.acmicpc.net/problem/7469)
+      * [https://www.acmicpc.net/problem/10090](https://www.acmicpc.net/problem/10090)
+      * [https://www.acmicpc.net/problem/13544](https://www.acmicpc.net/problem/13544)
+      * [https://www.acmicpc.net/problem/1422](https://www.acmicpc.net/problem/1422)
+      * [https://www.acmicpc.net/problem/10165](https://www.acmicpc.net/problem/10165)
+      * [https://www.acmicpc.net/problem/3679](https://www.acmicpc.net/problem/3679)
+  * Math
+    * EASY
+      * [https://www.acmicpc.net/problem/18108](https://www.acmicpc.net/problem/18108)
+      * [https://www.acmicpc.net/problem/2525](https://www.acmicpc.net/problem/2525)
+      * [https://www.acmicpc.net/problem/2839](https://www.acmicpc.net/problem/2839)
+      * [https://www.acmicpc.net/problem/1001](https://www.acmicpc.net/problem/1001)
+      * [https://www.acmicpc.net/problem/10998](https://www.acmicpc.net/problem/10998)
+      * [https://www.acmicpc.net/problem/10869](https://www.acmicpc.net/problem/10869)
+      * [https://www.acmicpc.net/problem/2739](https://www.acmicpc.net/problem/2739)
+      * [https://www.acmicpc.net/problem/10430](https://www.acmicpc.net/problem/10430)
+      * [https://www.acmicpc.net/problem/2588](https://www.acmicpc.net/problem/2588)
+      * [https://www.acmicpc.net/problem/11021](https://www.acmicpc.net/problem/11021)
+    * MEDIUM
+      * [https://www.acmicpc.net/problem/1759](https://www.acmicpc.net/problem/1759)
+      * [https://www.acmicpc.net/problem/1011](https://www.acmicpc.net/problem/1011)
+      * [https://www.acmicpc.net/problem/2225](https://www.acmicpc.net/problem/2225)
+      * [https://www.acmicpc.net/problem/1644](https://www.acmicpc.net/problem/1644)
+      * [https://www.acmicpc.net/problem/10830](https://www.acmicpc.net/problem/10830)
+      * [https://www.acmicpc.net/problem/10986](https://www.acmicpc.net/problem/10986)
+      * [https://www.acmicpc.net/problem/1016](https://www.acmicpc.net/problem/1016)
+      * [https://www.acmicpc.net/problem/11444](https://www.acmicpc.net/problem/11444)
+      * [https://www.acmicpc.net/problem/2023](https://www.acmicpc.net/problem/2023)
+      * [https://www.acmicpc.net/problem/2749](https://www.acmicpc.net/problem/2749)
+    * HARD
+      * [https://www.acmicpc.net/problem/1019](https://www.acmicpc.net/problem/1019)
+      * [https://www.acmicpc.net/problem/1328](https://www.acmicpc.net/problem/1328)
+      * [https://www.acmicpc.net/problem/1017](https://www.acmicpc.net/problem/1017)
+      * [https://www.acmicpc.net/problem/13977](https://www.acmicpc.net/problem/13977)
+      * [https://www.acmicpc.net/problem/12850](https://www.acmicpc.net/problem/12850)
+      * [https://www.acmicpc.net/problem/11402](https://www.acmicpc.net/problem/11402)
+      * [https://www.acmicpc.net/problem/3955](https://www.acmicpc.net/problem/3955)
+      * [https://www.acmicpc.net/problem/1557](https://www.acmicpc.net/problem/1557)
+      * [https://www.acmicpc.net/problem/1067](https://www.acmicpc.net/problem/1067)
+      * [https://www.acmicpc.net/problem/5615](https://www.acmicpc.net/problem/5615)
+* GPT > Human
+  * Backtracking
+    * EASY
+      * [https://www.acmicpc.net/problem/15649](https://www.acmicpc.net/problem/15649)
+      * [https://www.acmicpc.net/problem/15650](https://www.acmicpc.net/problem/15650)
+      * [https://www.acmicpc.net/problem/15652](https://www.acmicpc.net/problem/15652)
+      * [https://www.acmicpc.net/problem/15651](https://www.acmicpc.net/problem/15651)
+      * [https://www.acmicpc.net/problem/15654](https://www.acmicpc.net/problem/15654)
+      * [https://www.acmicpc.net/problem/15657](https://www.acmicpc.net/problem/15657)
+      * [https://www.acmicpc.net/problem/15655](https://www.acmicpc.net/problem/15655)
+      * [https://www.acmicpc.net/problem/15656](https://www.acmicpc.net/problem/15656)
+      * [https://www.acmicpc.net/problem/10974](https://www.acmicpc.net/problem/10974)
+      * [https://www.acmicpc.net/problem/5568](https://www.acmicpc.net/problem/5568)
+    * MEDIUM
+      * [https://www.acmicpc.net/problem/9663](https://www.acmicpc.net/problem/9663)
+      * [https://www.acmicpc.net/problem/15686](https://www.acmicpc.net/problem/15686)
+      * [https://www.acmicpc.net/problem/1759](https://www.acmicpc.net/problem/1759)
+      * [https://www.acmicpc.net/problem/1987](https://www.acmicpc.net/problem/1987)
+      * [https://www.acmicpc.net/problem/2580](https://www.acmicpc.net/problem/2580)
+      * [https://www.acmicpc.net/problem/12100](https://www.acmicpc.net/problem/12100)
+      * [https://www.acmicpc.net/problem/15683](https://www.acmicpc.net/problem/15683)
+      * [https://www.acmicpc.net/problem/13023](https://www.acmicpc.net/problem/13023)
+      * [https://www.acmicpc.net/problem/15684](https://www.acmicpc.net/problem/15684)
+      * [https://www.acmicpc.net/problem/2023](https://www.acmicpc.net/problem/2023)
+    * HARD
+      * [https://www.acmicpc.net/problem/1799](https://www.acmicpc.net/problem/1799)
+      * [https://www.acmicpc.net/problem/9202](https://www.acmicpc.net/problem/9202)
+      * [https://www.acmicpc.net/problem/12094](https://www.acmicpc.net/problem/12094)
+      * [https://www.acmicpc.net/problem/2549](https://www.acmicpc.net/problem/2549)
+      * [https://www.acmicpc.net/problem/2731](https://www.acmicpc.net/problem/2731)
+      * [https://www.acmicpc.net/problem/2561](https://www.acmicpc.net/problem/2561)
+      * [https://www.acmicpc.net/problem/1128](https://www.acmicpc.net/problem/1128)
+      * [https://www.acmicpc.net/problem/19998](https://www.acmicpc.net/problem/19998)
+      * [https://www.acmicpc.net/problem/2646](https://www.acmicpc.net/problem/2646)
+      * [https://www.acmicpc.net/problem/16129](https://www.acmicpc.net/problem/16129)
+  * Binary search
+    * EASY
+      * [https://www.acmicpc.net/problem/1920](https://www.acmicpc.net/problem/1920)
+      * [https://www.acmicpc.net/problem/10816](https://www.acmicpc.net/problem/10816)
+      * [https://www.acmicpc.net/problem/10815](https://www.acmicpc.net/problem/10815)
+      * [https://www.acmicpc.net/problem/2776](https://www.acmicpc.net/problem/2776)
+      * [https://www.acmicpc.net/problem/2417](https://www.acmicpc.net/problem/2417)
+      * [https://www.acmicpc.net/problem/17266](https://www.acmicpc.net/problem/17266)
+      * [https://www.acmicpc.net/problem/11663](https://www.acmicpc.net/problem/11663)
+      * [https://www.acmicpc.net/problem/13706](https://www.acmicpc.net/problem/13706)
+      * [https://www.acmicpc.net/problem/20551](https://www.acmicpc.net/problem/20551)
+      * [https://www.acmicpc.net/problem/1590](https://www.acmicpc.net/problem/1590)
+    * MEDIUM
+      * [https://www.acmicpc.net/problem/2110](https://www.acmicpc.net/problem/2110)
+      * [https://www.acmicpc.net/problem/12015](https://www.acmicpc.net/problem/12015)
+      * [https://www.acmicpc.net/problem/2470](https://www.acmicpc.net/problem/2470)
+      * [https://www.acmicpc.net/problem/2467](https://www.acmicpc.net/problem/2467)
+      * [https://www.acmicpc.net/problem/1300](https://www.acmicpc.net/problem/1300)
+      * [https://www.acmicpc.net/problem/1253](https://www.acmicpc.net/problem/1253)
+      * [https://www.acmicpc.net/problem/2473](https://www.acmicpc.net/problem/2473)
+      * [https://www.acmicpc.net/problem/12738](https://www.acmicpc.net/problem/12738)
+      * [https://www.acmicpc.net/problem/2143](https://www.acmicpc.net/problem/2143)
+      * [https://www.acmicpc.net/problem/7453](https://www.acmicpc.net/problem/7453)
+    * HARD
+      * [https://www.acmicpc.net/problem/14003](https://www.acmicpc.net/problem/14003)
+      * [https://www.acmicpc.net/problem/2243](https://www.acmicpc.net/problem/2243)
+      * [https://www.acmicpc.net/problem/16566](https://www.acmicpc.net/problem/16566)
+      * [https://www.acmicpc.net/problem/1981](https://www.acmicpc.net/problem/1981)
+      * [https://www.acmicpc.net/problem/7469](https://www.acmicpc.net/problem/7469)
+      * [https://www.acmicpc.net/problem/1572](https://www.acmicpc.net/problem/1572)
+      * [https://www.acmicpc.net/problem/1849](https://www.acmicpc.net/problem/1849)
+      * [https://www.acmicpc.net/problem/1321](https://www.acmicpc.net/problem/1321)
+      * [https://www.acmicpc.net/problem/1777](https://www.acmicpc.net/problem/1777)
+      * [https://www.acmicpc.net/problem/1637](https://www.acmicpc.net/problem/1637)
 
-문제 구분 당 난이도 별 10 문제(쉬운 문제가 없을 경우 넘어감)
-
-문제당 총 20회 시행 후 Hit rate 계산
-
-* 추가 고려사항
-  * 언어 별 Hit rate(한국어, 영어, 다른 언어)
-  * Programming Language 별 Hit rate(C, Java, Python)
-  * Hit rate를 올리기 위한 추가 지침(문제 구분 제시 등)
-
+문제는 ChatGPT가 정확히 인식하여 입력과 출력을 양식을 맞출 수 있는 문제로만 진행한다.
