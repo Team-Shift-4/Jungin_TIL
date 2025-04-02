@@ -1,0 +1,22 @@
+# 기획중 - 소프트웨어테스팅 기법을 활용하여 ChatGPT의 신뢰도를 올리는 방법
+
+{% content-ref url="../exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md" %}
+[exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md](../exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md)
+{% endcontent-ref %}
+
+위 글을 참고하여 GPT가 인간보다 약세, 강세, 비슷한 경향을 보이는 문제 유형을 선정하였다.\
+-> 해당 페이지 아래에 Problem에 기입
+
+문제는 ChatGPT가 정확히 인식하여 입력과 출력을 양식을 맞출 수 있는 문제로만 진행한다.\
+-> GPT-4로 진행한다.
+
+문제 양식을 제출하기 위해 HTML 문서로 문제 페이지를 변환하여 GPT에게 기입한다.\
+-> GPT가 백준 문제임을 인식하고 문제를 해결하는 것으로 보여서 문제의 내용만 기입한 후 다시 진행한다.
+
+Prompt template은 "해당하는 HTML 문서의 프로그래밍 문제를 C언어로 작성해줘." 로 진행한다.\
+-> HTML로 제출 시 해당 문제가 백준 문제임을 인식하고 검색하여 해결하는 것으로 보여 문제 내용을 복사하여 제출하고 GPT 프로젝트 지침으로 "해당하는 문제를 해결하는 C언어 코드를 출력해줘."로 진행한다.
+
+<figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+
+'25.04.03: Greedy Aproach Test
+

@@ -8,7 +8,14 @@
 
 * [Genarative AI](paper/genarative-ai/README.md)
   * [한국어 코딩 테스트에서의 인간 대 ChatGPT 3.5 & 4.0 성능 비교 및 평가 체계](paper/genarative-ai/chatgpt-3.5-and-4.0.md)
-  * [기획중 - 소프트웨어테스팅 기법을 활용하여 ChatGPT의 신뢰도를 올리는 방법](paper/genarative-ai/chatgpt.md)
+  * [기획중 - 소프트웨어테스팅 기법을 활용하여 ChatGPT의 신뢰도를 올리는 방법](paper/genarative-ai/chatgpt/README.md)
+    * [Problem](paper/genarative-ai/chatgpt/problem/README.md)
+      * [Greedy Approach](paper/genarative-ai/chatgpt/problem/greedy-approach.md)
+      * [Bit Manipulation](paper/genarative-ai/chatgpt/problem/bit-manipulation.md)
+      * [Sorting](paper/genarative-ai/chatgpt/problem/sorting.md)
+      * [Mathematics](paper/genarative-ai/chatgpt/problem/mathematics.md)
+      * [Backtracking](paper/genarative-ai/chatgpt/problem/backtracking.md)
+      * [Binary search](paper/genarative-ai/chatgpt/problem/binary-search.md)
   * [Exploring the Competency of ChatGPT in Solving Competitive Programming Challanges](paper/genarative-ai/exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md)
 
 ## Bookcase
