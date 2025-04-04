@@ -13,7 +13,7 @@ description: GPT < Human
   * [https://www.acmicpc.net/problem/10162](https://www.acmicpc.net/problem/10162)&#x20;
   * [https://www.acmicpc.net/problem/1439](https://www.acmicpc.net/problem/1439)
   * [https://www.acmicpc.net/problem/1049](https://www.acmicpc.net/problem/1049)
-  * [https://www.acmicpc.net/problem/2847](https://www.acmicpc.net/problem/2847)ㅌ
+  * [https://www.acmicpc.net/problem/2847](https://www.acmicpc.net/problem/2847)
   * [https://www.acmicpc.net/problem/2864](https://www.acmicpc.net/problem/2864)
 * MEDIUM
   * [https://www.acmicpc.net/problem/2437](https://www.acmicpc.net/problem/2437)
@@ -27,7 +27,6 @@ description: GPT < Human
   * [https://www.acmicpc.net/problem/3109](https://www.acmicpc.net/problem/3109)
   * [https://www.acmicpc.net/problem/1092](https://www.acmicpc.net/problem/1092)
 * HARD
-  * [https://www.acmicpc.net/problem/1092](https://www.acmicpc.net/problem/1092)
   * [https://www.acmicpc.net/problem/16496](https://www.acmicpc.net/problem/16496)
   * [https://www.acmicpc.net/problem/18185](https://www.acmicpc.net/problem/18185)
   * [https://www.acmicpc.net/problem/14939](https://www.acmicpc.net/problem/14939)
@@ -36,3 +35,5 @@ description: GPT < Human
   * [https://www.acmicpc.net/problem/1201](https://www.acmicpc.net/problem/1201)
   * [https://www.acmicpc.net/problem/10165](https://www.acmicpc.net/problem/10165)
   * [https://www.acmicpc.net/problem/10803](https://www.acmicpc.net/problem/10803)
+  * [https://www.acmicpc.net/problem/2569](https://www.acmicpc.net/problem/2569)
+  * [https://www.acmicpc.net/problem/21761](https://www.acmicpc.net/problem/21761)

@@ -1,9 +1,5 @@
 # 기획중 - 소프트웨어테스팅 기법을 활용하여 ChatGPT의 신뢰도를 올리는 방법
 
-{% content-ref url="../exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md" %}
-[exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md](../exploring-the-competency-of-chatgpt-in-solving-competitive-programming-challanges.md)
-{% endcontent-ref %}
-
 위 글을 참고하여 GPT가 인간보다 약세, 강세, 비슷한 경향을 보이는 문제 유형을 선정하였다.\
 -> 해당 페이지 아래에 Problem에 기입
 
@@ -14,9 +10,12 @@
 -> GPT가 백준 문제임을 인식하고 문제를 해결하는 것으로 보여서 문제의 내용만 기입한 후 다시 진행한다.
 
 Prompt template은 "해당하는 HTML 문서의 프로그래밍 문제를 C언어로 작성해줘." 로 진행한다.\
--> HTML로 제출 시 해당 문제가 백준 문제임을 인식하고 검색하여 해결하는 것으로 보여 문제 내용을 복사하여 제출하고 GPT 프로젝트 지침으로 "해당하는 문제를 해결하는 C언어 코드를 출력해줘."로 진행한다.
+-> HTML로 제출 시 해당 문제가 백준 문제임을 인식하고 검색하여 해결하는 것으로 보여 문제 내용을 복사하여 제출하고 GPT 프로젝트 지침으로 "해당하는 문제를 해결하는 C언어 코드를 출력해줘."로 진행한다.\
+-> 이미지 힌트도 얻을 수 있고 일관적인 문제 해결 능력과 백준 문제임을 인식하지 못하게 하기 위해 Markdown으로 작성한 문제를 제출하고 GPT 프로젝트 지침으로 "제출하는 마크다운 파일을 읽고 해당하는 문제를 해결하는 C언어 코드를 출력해줘."로 진행한다.
 
-<figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
-'25.04.03: Greedy Aproach Test
+
+
+'25.04.04: Greedy Aproach Test
 
