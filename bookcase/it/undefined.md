@@ -1,11 +1,11 @@
 ---
-icon: square-check
 description: 책 [소프트웨어 스펙의 모든 것]을 읽고 정리한 문서이다.
+icon: square-check
 ---
 
 # 소프트웨어 스펙의 모든 것
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p>소프트웨어 스펙의 모든 것</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p>소프트웨어 스펙의 모든 것</p></figcaption></figure>
 
 ## 소프트웨어 스펙의 개요
 

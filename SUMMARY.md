@@ -50,6 +50,7 @@
 ## ESELAB
 
 * [ESELab.](eselab/eselab..md)
+  * [과제(다이텍)](eselab/eselab./undefined.md)
   * [BK Manual](eselab/eselab./bk-manual.md)
 * ['25\_1\_Programming Basics Teaching Assistant](eselab/25_1_programming-basics-teaching-assistant.md)
 
