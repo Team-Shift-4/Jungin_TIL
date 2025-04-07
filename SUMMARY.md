@@ -21,9 +21,6 @@
 ## Bookcase
 
 * [IT](bookcase/it/README.md)
-  * [Specification by Example](bookcase/it/specification-by-example.md)
-  * [이공계 Technical Writing 가이드](bookcase/it/technical-writing.md)
-  * [소프트웨어 스펙의 모든 것](bookcase/it/undefined.md)
   * [Discrete Mathematics and ITs Applications](bookcase/it/discrete-mathematics-and-its-applications/README.md)
     * [1. The Foundation: Logic and Proofs](bookcase/it/discrete-mathematics-and-its-applications/1.-the-foundation-logic-and-proofs.md)
     * [2. Basic Structures: Sets, Functions, Sequences and Sums](bookcase/it/discrete-mathematics-and-its-applications/2.-basic-structures-sets-functions-sequences-and-sums.md)
@@ -37,6 +34,14 @@
     * [10. Trees](bookcase/it/discrete-mathematics-and-its-applications/10.-trees.md)
     * [11. Boolean Algebra](bookcase/it/discrete-mathematics-and-its-applications/11.-boolean-algebra.md)
     * [12. Modeling Computation](bookcase/it/discrete-mathematics-and-its-applications/12.-modeling-computation.md)
+
+***
+
+* [WRITING](writing/README.md)
+  * [소프트웨어 스펙의 모든 것](writing/undefined.md)
+  * [이공계 Technical Writing 가이드](writing/technical-writing.md)
+  * [Specification by Example](writing/specification-by-example.md)
+  * [논문 쓰기 절대 매뉴얼](writing/undefined-1.md)
 
 ## KNU M.S.
 
