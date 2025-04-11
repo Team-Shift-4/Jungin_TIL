@@ -1,6 +1,6 @@
 # 기획중 - 소프트웨어테스팅 기법을 활용하여 ChatGPT의 신뢰도를 올리는 방법
 
-위 글을 참고하여 GPT가 인간보다 약세, 강세, 비슷한 경향을 보이는 문제 유형을 선정하였다.\
+&#x20;글을 참고하여 GPT가 인간보다 약세, 강세, 비슷한 경향을 보이는 문제 유형을 선정하였다.\
 -> 해당 페이지 아래에 Problem에 기입
 
 문제는 ChatGPT가 정확히 인식하여 입력과 출력을 양식을 맞출 수 있는 문제로만 진행한다.\
@@ -28,4 +28,20 @@ Prompt template은 "해당하는 HTML 문서의 프로그래밍 문제를 C언�
 ```
 프로젝트 파일 4.md를 지침에 따라 행동해줘
 ```
+
+***
+
+질문 수 제한이 너무 낮아 방법을 바꿔 AI의 신뢰도를 높이는 것을 바탕으로 동작시킬 것이기 때문에 gpt-4o-mini 모델을 활용하여 Hit rate가 8할, 5할, 2할에 준하는 케이스들을 찾을 예정이다.
+
+발견한 케이스는 총 네개, 80%, 60%, 20%, 0%이다.\
+각 케이스는 아래와 같다.
+
+* [https://www.acmicpc.net/problem/10974](https://www.acmicpc.net/problem/10974) 80%/81%
+* [https://www.acmicpc.net/problem/24389](https://www.acmicpc.net/problem/24389) 60%/67%
+* [https://www.acmicpc.net/problem/2417](https://www.acmicpc.net/problem/2417) 40%/20%
+* 0%/8%
+
+&#x20;
+
+<table><thead><tr><th width="109">Problem</th><th width="180.3333740234375">Link</th><th>Pass rate per 10 times</th><th>Pass rate per 50 times</th><th>Wrong reason : Number of times</th></tr></thead><tbody><tr><td>10974</td><td><a href="https://boj.kr/10974">https://boj.kr/10974</a></td><td>80%</td><td>81%(9)</td><td>Wrong: 9</td></tr><tr><td>24389</td><td><a href="https://boj.kr/24389">https://boj.kr/24389</a></td><td>60%</td><td>68%(16)</td><td>Time out: 8<br>Wrong: 8</td></tr><tr><td>2417</td><td><a href="https://boj.kr/2417">https://boj.kr/2417</a></td><td>40%</td><td>20%(40)</td><td>Time out: 20<br>Wrong: 20</td></tr><tr><td>5568</td><td><a href="https://boj.kr/5568">https://boj.kr/5568</a></td><td>0%</td><td>8%(46)</td><td>Compile error: 4<br>Out of bounds: 10<br>Buffer overflow: 1<br>Wrong: 31</td></tr></tbody></table>
 
